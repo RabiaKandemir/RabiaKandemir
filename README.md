@@ -1,6 +1,6 @@
 Hi 👋 My name is Rabia
 ======================
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/537878/screenshots/14511603/media/842e004c9d8f4fc44f12f27a968968c8.gif">
 <br/>
 <h3>A Full Stack Developer from Turkey</h3>
 
