@@ -1,6 +1,6 @@
 Hi 👋 My name is Rabia
 ======================
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/537878/screenshots/14511603/media/842e004c9d8f4fc44f12f27a968968c8.gif">
 <br/>
 <h3>A Full Stack Developer from Turkey</h3>
 
@@ -36,4 +36,4 @@ Hi 👋 My name is Rabia
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RabiaKandemir&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RabiaKandemir&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RabiaKandemir&label=Profile%20views&color=0e75b6&style=flat" alt="RabiaKandemir" /> </p>
+
