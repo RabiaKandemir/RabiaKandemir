@@ -1,6 +1,6 @@
 Hi 👋 My name is Rabia
 ======================
-<img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
+<img align="right"  alt="Coding" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47fvpm3yh7b2psdrjltgozvaw8d2vtmovi7jgb6u0t&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <br/>
 <h3>A Full Stack Developer from Turkey</h3>
 
